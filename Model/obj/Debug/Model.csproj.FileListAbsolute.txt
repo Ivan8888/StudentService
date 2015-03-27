@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\POSLE ISPITA\StudentskaSluzba\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\POSLE ISPITA\StudentskaSluzba\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\POSLE ISPITA\StudentskaSluzba\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\POSLE ISPITA\StudentskaSluzba\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\POSLE ISPITA\StudentskaSluzba\Model\obj\Debug\Model.pdb
